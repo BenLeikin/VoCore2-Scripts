@@ -2,7 +2,7 @@
 
 TMPDIR="/tmp"
 TESTFILE="$TMPDIR/io_test.bin"
-COUNT=100          # MB for I/O tests
+COUNT=50          # MB for I/O tests
 LOOP_ITERS=500000 # iterations for CPU test
 
 printf "\n=== VoCore2 Benchmark ===\n"
